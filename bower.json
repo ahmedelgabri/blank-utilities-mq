@@ -1,0 +1,29 @@
+{
+  "name": "blank-css-mq",
+  "version": "0.1.0",
+  "description": "Media query mixin for blank-css",
+  "main": "mq.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-utilities-mq",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "mq",
+    "media-queries"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
